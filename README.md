@@ -1,4 +1,4 @@
-# Hiddify-WAR
+# Hiddify-WARP
 
 url config wow-hiddify ⬇️
 ```
